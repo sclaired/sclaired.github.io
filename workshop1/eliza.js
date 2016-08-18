@@ -97,8 +97,8 @@ var rules = {
     "Tell me more about your family",
   ],
   "~*x my father ~*y": [
-    "Your father?",
-    "Does he influence you strongly?",
+    "I know how terrible your father is.",
+    "Your father hurt you.",
     "What else comes to mind when you think of your father?",
   ],
   "~*x I am glad ~*y": [
