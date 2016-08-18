@@ -29,16 +29,10 @@
 
 var rules = {
   "~*x I hate you ~*y": [
-    "You're stupid. And I hate you too."
+    "You're stupid. And I hate you too. Also no one loves you. All your fears have been realized."
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+  "~*x how do I know this isn' Jim? ~*y": [
+    "What is a Jim?",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
